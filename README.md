@@ -1,16 +1,31 @@
 # Awesome Ktor
 
-Ktor is an asynchronous framework for creating microservices, web applications and more. Written in Kotlin from the ground up.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Ktor is an asynchronous framework for creating microservices, web applications and more. Written in Kotlin from the ground up. This repo aims to be a curated list of awesome books, tutorials, courses, and resources for the Ktor framework ecosystem.
 
 ## Table of Contents
 
-- [Resources](#resources)
+- [Books](#books)
+- [Courses](#courses)
+- [Podcasts](#podcasts)
+- [Educational Projects](#educational-projects)
+- [Projects using Ktor](#projects-using-ktor)
+- [Other Resources](#resources)
   - [YouTube](#youtube)
   - [Blogs](#blogs)
-- [Projects using Ktor](#projects-using-ktor)
+- [Contributing](#contributing)
+
+## Books
+
+## Courses
+
+## Podcasts
+
+## Educational Projects
 
 
-## Resources
+## Other Resources
 
 ### YouTube
 
@@ -24,4 +39,14 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Projects using Ktor
 
-- [Kryptokrona SDK - For caching and processing data from the blockchain to provide faster access for services.](https://github.com/kryptokrona/kryptokrona-api)
+- [Kryptokrona API - For caching and processing data from the blockchain to provide faster access for services.](https://github.com/kryptokrona/kryptokrona-api)
+- [Kodein](https://github.com/kosi-libs/Kodein) Painless Kotlin Dependency Injection
+
+
+## Contributing
+
+Contributions are very welcome!
+
+Feel free to open an issue or create a pull request with your additions.
+
+Thank you!
