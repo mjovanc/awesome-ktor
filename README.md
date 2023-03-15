@@ -1,4 +1,4 @@
-# Awesome Ktor
+# [![Ktor](https://avatars.githubusercontent.com/u/28214161?s=128&v=4.svg)](https://github.com/ktorio/ktor) Awesome Ktor
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
