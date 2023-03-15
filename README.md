@@ -29,12 +29,12 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ### YouTube
 
-- [Kotlin by JetBrains](https://www.youtube.com/@Kotlin/videos)
+- [Kotlin by JetBrains](https://www.youtube.com/@Kotlin/videos) the official YouTube channel of the Kotlin programming language. Kotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast, ATOM Podcast.
 - [Ktor - REST API Tutorials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyR0Pa42Cqu5mIhH17uG8nN)
 
 ### Blogs
 
-- [Codersee](https://codersee.com)
+- [Codersee](https://codersee.com) Codersee is a place, where you can learn programming- especially Kotlin and backend topics- through practical tutorials.
 
 
 ## Ktor Projects
