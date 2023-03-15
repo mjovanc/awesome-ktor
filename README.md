@@ -10,7 +10,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Courses](#courses)
 - [Podcasts](#podcasts)
 - [Educational Projects](#educational-projects)
-- [Projects using Ktor](#projects-using-ktor)
+- [Ktor Projects](#ktor-projects)
 - [Other Resources](#resources)
   - [YouTube](#youtube)
   - [Blogs](#blogs)
@@ -37,10 +37,11 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Codersee](https://codersee.com)
 
 
-## Projects using Ktor
+## Ktor Projects
 
 - [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) For caching and processing data from the blockchain to provide faster access for services.
-- [Kodein](https://github.com/kosi-libs/Kodein) Painless Kotlin Dependency Injection
+- [Kodein](https://github.com/kosi-libs/Kodein) Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
+- [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) Ktor OpenAPI/Swagger 3 Generator.
 
 
 ## Contributing
