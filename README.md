@@ -8,7 +8,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 - [Books](#books)
 - [Courses](#courses)
-- [Podcasts/Episodes](#)
+- [Podcasts/Episodes](#podcastsepisodes)
   - [Podcasts](#podcasts)
   - [Episodes](#episodes)
 - [Educational Projects](#educational-projects)
