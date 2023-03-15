@@ -61,6 +61,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Kodein](https://github.com/kosi-libs/Kodein) Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
 - [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) Ktor OpenAPI/Swagger 3 Generator.
 - [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
+- [ktor-health-check](https://github.com/zensum/ktor-health-check) Simple, opinionated ktor health and readiness checks made for Kubernetes.
 
 ## Contributing
 
