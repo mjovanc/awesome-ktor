@@ -37,8 +37,11 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Educational Projects
 
+- [Samples for Ktor](https://github.com/ktorio/ktor-samples) A collection of ready-to-use samples for Ktor.
 - [KtorEasy](https://github.com/mathias21/KtorEasy) Demonstrates a suggested Ktor architecture. It includes Backend implementation with Ktor, MariaDB database connection with Hikari, Docker command to build Backend container and Docker compose to run both database and backend instance.
 - [Ktor Arrow Real World Example](https://github.com/nomisRev/ktor-arrow-example) Real World implementation - "The mother of all demo apps". Written in Kotlin, with Ktor, Arrow, SqlDelight, KotlinX Serialization, etc.
+- [Starter project to create a simple RESTful web service in Kotlin](https://github.com/raharrison/kotlin-ktor-exposed-starter) Starter RESTful service with websocket notifications using Kotlin, Ktor and Exposed with H2, HikariCP and FlyWay.
+- [RealWorld Kotlin Ktor Backend](https://github.com/dragneelfps/realworld-kotlin-ktor) Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 
 
 ## Other Resources
@@ -57,7 +60,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) For caching and processing data from the blockchain to provide faster access for services.
 - [Kodein](https://github.com/kosi-libs/Kodein) Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
 - [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) Ktor OpenAPI/Swagger 3 Generator.
-
+- [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 
 ## Contributing
 
