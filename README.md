@@ -62,6 +62,8 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) Ktor OpenAPI/Swagger 3 Generator.
 - [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 - [ktor-health-check](https://github.com/zensum/ktor-health-check) Simple, opinionated ktor health and readiness checks made for Kubernetes.
+- [Cohort](https://github.com/sksamuel/cohort) Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
+- [SuspendApp with Ktor](https://github.com/arrow-kt/suspendapp#suspendapp-with-ktor) The module suspendapp-ktor provides a server constructor that lifts the Ktor ApplicationEngine in to a Resource, representing the Engine running an Application(i.e Netty) while supporting auto-reload.
 
 ## Contributing
 
