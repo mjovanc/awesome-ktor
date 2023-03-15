@@ -8,7 +8,9 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 - [Books](#books)
 - [Courses](#courses)
-- [Podcasts](#podcasts)
+- [Podcasts/Episodes](#)
+  - [Podcasts](#podcasts)
+  - [Episodes](#episodes)
 - [Educational Projects](#educational-projects)
 - [Ktor Projects](#ktor-projects)
 - [Other Resources](#resources)
@@ -20,7 +22,13 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Courses
 
-## Podcasts
+## Podcasts/Episodes
+
+### Podcasts
+
+### Episodes
+
+- [Ktor with Ryan Harter](https://talkingkotlin.com/ktor-with-ryan-harter/) Talks about how Ktor can be used for developing server side applications and its differences with some other existing ones.
 
 ## Educational Projects
 
