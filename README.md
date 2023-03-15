@@ -39,7 +39,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Projects using Ktor
 
-- [Kryptokrona API - For caching and processing data from the blockchain to provide faster access for services.](https://github.com/kryptokrona/kryptokrona-api)
+- [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) For caching and processing data from the blockchain to provide faster access for services.
 - [Kodein](https://github.com/kosi-libs/Kodein) Painless Kotlin Dependency Injection
 
 
