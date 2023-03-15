@@ -24,6 +24,9 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Educational Projects
 
+- [KtorEasy](https://github.com/mathias21/KtorEasy) Demonstrates a suggested Ktor architecture. It includes Backend implementation with Ktor, MariaDB database connection with Hikari, Docker command to build Backend container and Docker compose to run both database and backend instance.
+
+
 
 ## Other Resources
 
