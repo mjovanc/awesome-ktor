@@ -14,8 +14,8 @@ Ktor is an asynchronous framework for creating microservices, web applications a
   - [Episodes](#episodes)
 - [Educational Projects](#educational-projects)
 - [Ktor Projects](#ktor-projects)
-- [Other Resources](#resources)
-  - [YouTube](#youtube)
+- [Other Resources](#other-resources)
+  - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
   - [Blogs](#blogs)
 - [Contributing](#contributing)
 
@@ -43,7 +43,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Other Resources
 
-### YouTube
+### YouTube Channels and Playlists
 
 - [Kotlin by JetBrains](https://www.youtube.com/@Kotlin/videos) the official YouTube channel of the Kotlin programming language. Kotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast, ATOM Podcast.
 - [Ktor - REST API Tutorials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyR0Pa42Cqu5mIhH17uG8nN)
