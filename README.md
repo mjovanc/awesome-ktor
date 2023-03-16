@@ -15,7 +15,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Educational Projects](#educational-projects)
 - [Ktor Projects](#ktor-projects)
 - [Other Resources](#other-resources)
-  - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
+  - [YouTube Channels and Playlists](#youtube-channels-videos-and-playlists)
   - [Blogs](#blogs)
 - [Contributing](#contributing)
 
@@ -45,15 +45,25 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [github-alerts-kotlin](https://github.com/47deg/gh-alerts-subscriptions-kotlin) Example implementation of the subscription microservice (Ktor flavour).
 - [Kotlin Native Server](https://github.com/nomisRev/ktor-k8s-zero-downtime) Kotlin Native Ktor server with K8s zero-downtime demo.
 
-
 ## Other Resources
 
 ### YouTube Channels, Videos and Playlists
 
+#### Channels
+
 - [Kotlin by JetBrains](https://www.youtube.com/@Kotlin/videos) the official YouTube channel of the Kotlin programming language. Kotlin Tutorials, Kotlin Multiplatform, Kotlin Coroutines, Kotlin Tips, Talking Kotlin Podcast, ATOM Podcast.
+
+#### Playlists
+
 - [Ktor - REST API Tutorials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyR0Pa42Cqu5mIhH17uG8nN)
+- [Ktor tutorial with Project (A Note App)](https://www.youtube.com/playlist?list=PLW8cZbTuJWlBDFBAg-yPj_FzEcx25Ec5n) Create CRUD operations for Notes with Ktor and make an Android app and use the API.
+
+#### Videos
+
 - [Building applications with Kotlin and Arrow.kt in style](https://www.youtube.com/watch?v=g79A6HmbW5M)
 - [Graceful Resource Handling Using Structured Concurrency in Kotlin](https://www.youtube.com/watch?v=zKrTBH8jqH4)
+- [Ktor From the Ground Up](https://www.youtube.com/watch?v=WlvK6zYo8Sw) Creating a robust asynchronous server-side applications with Ktor as well as looking at deployment models, the features it provides out of the box, and its extensibility model.
+- [Building web applications with Ktor and Exposed](https://www.youtube.com/watch?v=QE_zk3V0j88) Learn how to bootstrap a project with Ktor, build interaction between server and client via WebSockets and add database support with the Exposed library.
 
 ### Blogs
 
