@@ -23,6 +23,8 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Courses
 
+- [Hands-On Kotlin Web Development with Ktor](https://www.udemy.com/course/hands-on-kotlin-web-development-with-ktor/)
+
 ## Articles
 
 - [Kotlin with Ktor](https://www.baeldung.com/kotlin/ktor) Explores how to create a standalone server application using Ktor.
