@@ -15,7 +15,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Educational Projects](#educational-projects)
 - [Ktor Projects](#ktor-projects)
 - [Other Resources](#other-resources)
-  - [YouTube Channels and Playlists](#youtube-channels-videos-and-playlists)
+  - [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
   - [Blogs](#blogs)
 - [Contributing](#contributing)
 
