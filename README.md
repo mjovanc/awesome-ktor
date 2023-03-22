@@ -16,7 +16,11 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Ktor Projects](#ktor-projects)
 - [Other Resources](#other-resources)
   - [YouTube Channels, Videos and Playlists](#youtube-channels-videos-and-playlists)
+    - [Channels](#channels)
+    - [Playlists](#playlists)
+    - [Videos](#videos)
   - [Blogs](#blogs)
+  - [Socials](#socials)
 - [Contributing](#contributing)
 
 ## Books
@@ -72,6 +76,10 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 ### Blogs
 
 - [Codersee](https://codersee.com) Codersee is a place, where you can learn programming- especially Kotlin and backend topics- through practical tutorials.
+
+### Socials
+
+- [Twitter: @JetBrainsKtor](https://twitter.com/jetbrainsktor)
 
 ## Ktor Projects
 
