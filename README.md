@@ -80,6 +80,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 ### Socials
 
 - [Twitter: @JetBrainsKtor](https://twitter.com/jetbrainsktor)
+- [Reddit: /r/ktor](https://www.reddit.com/r/ktor/)
 
 ## Ktor Projects
 
