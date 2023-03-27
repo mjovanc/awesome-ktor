@@ -34,7 +34,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Kotlin with Ktor](https://www.baeldung.com/kotlin/ktor) Explores how to create a standalone server application using Ktor.
 - [Ktor: REST API for Mobile](https://www.kodeco.com/7265034-ktor-rest-api-for-mobile) Using Ktor to create REST APIs for mobile. You’ll create a Ktor REST API server named TodoServer. This server will authenticate users and provide an API for users and TODOs.
 - [KtorEasy Medium articles:](https://medium.com/@math21/list/ktoreasy-210a142aecb1) Medium's article list explaining KtorEasy repository. Including explanation about its architecture, testing, deployment and backend monitoring with Grafana.
-
+- [An opinionated Kotlin backend service](https://medium.com/p/87f814e3dffd) Article list explains the scaffolding for Kotlin / Ktor based backend services
 ## Podcasts/Episodes
 
 ### Podcasts
