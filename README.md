@@ -95,6 +95,8 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Hoplite](https://github.com/sksamuel/hoplite) Kotlin library for loading configuration files into typesafe classes in a boilerplate-free way. Define your config using Kotlin data classes, and at startup Hoplite will read from one or more config files, mapping the values in those files into your config classes. Designed for usage in Ktor.
 - [Tribune](https://github.com/sksamuel/tribune) Multiplatform Kotlin library that builds on Arrow to provide a toolset for creating simple parsers from raw input types, to properly validated parsed types. Designed for usage in Ktor.
 - [Kweb](https://github.com/kwebio/kweb-core) A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
+- [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium)
+- [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 
 
 ## Contributing
