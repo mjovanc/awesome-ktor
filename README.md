@@ -52,6 +52,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [RealWorld Kotlin Ktor Backend](https://github.com/dragneelfps/realworld-kotlin-ktor) Kotlin-Ktor codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 - [github-alerts-kotlin](https://github.com/47deg/gh-alerts-subscriptions-kotlin) Example implementation of the subscription microservice (Ktor flavour).
 - [Kotlin Native Server](https://github.com/nomisRev/ktor-k8s-zero-downtime) Kotlin Native Ktor server with K8s zero-downtime demo.
+- [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
 
 ## Other Resources
 
