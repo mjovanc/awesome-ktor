@@ -98,6 +98,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Kweb](https://github.com/kwebio/kweb-core) A streamlined Kotlin web framework built on Ktor that makes it easy to create sophisticated interactive websites.
 - [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium)
 - [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
+- [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
 
 
 ## Contributing
