@@ -53,6 +53,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [github-alerts-kotlin](https://github.com/47deg/gh-alerts-subscriptions-kotlin) Example implementation of the subscription microservice (Ktor flavour).
 - [Kotlin Native Server](https://github.com/nomisRev/ktor-k8s-zero-downtime) Kotlin Native Ktor server with K8s zero-downtime demo.
 - [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
+- [NotyKT](https://github.com/PatilShreyas/NotyKT) NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 
 ## Other Resources
 
