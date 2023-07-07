@@ -25,6 +25,9 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 
 ## Books
 
+-  [Marcin Moskała - Kotlin coroutines deep dive](https://leanpub.com/coroutines) Very useful book to understand coroutines
+and on deeper level. _Note: The book is not talking directly about Ktor, however it's talking about server side Kotlin in general._
+
 ## Courses
 
 - [Hands-On Kotlin Web Development with Ktor](https://www.udemy.com/course/hands-on-kotlin-web-development-with-ktor/)
@@ -54,6 +57,7 @@ Ktor is an asynchronous framework for creating microservices, web applications a
 - [Kotlin Native Server](https://github.com/nomisRev/ktor-k8s-zero-downtime) Kotlin Native Ktor server with K8s zero-downtime demo.
 - [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
 - [NotyKT](https://github.com/PatilShreyas/NotyKT) NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
+- [Ktor + Koin + MongoDB template](https://github.com/tkrason/ktor-koin-mongodb-template) An example project how to run Ktor + Koin + MongoDB. Save your `data` classes with ease and without blocking!
 
 ## Other Resources
 
