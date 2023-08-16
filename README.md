@@ -58,6 +58,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Tenistas REST Ktor (Spanish)](https://github.com/joseluisgs/tenistas-rest-ktor-2022-2023) Api REST de Tenistas con Ktor para Programación de Servicios y Procesos de 2º de DAM. Curso 2022/2023.
 - [NotyKT](https://github.com/PatilShreyas/NotyKT) NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 - [Ktor + Koin + MongoDB template](https://github.com/tkrason/ktor-koin-mongodb-template) An example project how to run Ktor + Koin + MongoDB. Save your `data` classes with ease and without blocking!
+- [kotlin-backend-ktor](https://github.com/azlaan95/kotlin-backend-ktor) A demonstration of how we can use Kotlin as Backed with Ktor.
 
 ## Other Resources
 
