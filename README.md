@@ -59,6 +59,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [NotyKT](https://github.com/PatilShreyas/NotyKT) NotyKT is the complete Kotlin-stack note taking application built to demonstrate a use of Kotlin programming language in server-side and Modern Android development tools.  REST API built using Ktor.
 - [Ktor + Koin + MongoDB template](https://github.com/tkrason/ktor-koin-mongodb-template) An example project how to run Ktor + Koin + MongoDB. Save your `data` classes with ease and without blocking!
 - [kotlin-backend-ktor](https://github.com/azlaan95/kotlin-backend-ktor) A demonstration of how we can use Kotlin as Backed with Ktor.
+- [HTMX Sample app](https://github.com/Rattlyy/htmx-ktor) Ktor + PostgreSQL + HTMX + kotlin.html. All CRUD methods are implemented.
 
 ## Other Resources
 
