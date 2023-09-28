@@ -73,6 +73,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 
 - [Ktor - REST API Tutorials](https://www.youtube.com/playlist?list=PLFmuMD2V4CkyR0Pa42Cqu5mIhH17uG8nN)
 - [Ktor tutorial with Project (A Note App)](https://www.youtube.com/playlist?list=PLW8cZbTuJWlBDFBAg-yPj_FzEcx25Ec5n) Create CRUD operations for Notes with Ktor and make an Android app and use the API.
+- [Make a Chat App With Ktor](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSHLKOwFeFvA7XlAGXYa_y0) Create a real time chat app in Android(adhering to the Clean Architecture guidelines) using Ktor, MongoDB and Jetpack Compose.
 
 #### Videos
 
