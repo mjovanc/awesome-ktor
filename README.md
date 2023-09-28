@@ -96,7 +96,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Kryptokrona API](https://github.com/kryptokrona/kryptokrona-api) For caching and processing data from the blockchain to provide faster access for services.
 - [Kodein](https://github.com/kosi-libs/Kodein) Kodein is a very simple and yet very useful dependency retrieval container. it is very easy to use and configure.
 - [Ktor OpenAPI Generator](https://github.com/papsign/Ktor-OpenAPI-Generator) Ktor OpenAPI/Swagger 3 Generator.
-- [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
+- [Kompendium](https://github.com/bkbnio/kompendium) Intended to be a non-invasive OpenAPI spec generator for Ktor APIs. By operating entirely through Ktor's plugin architecture, it allows you to incrementally document your API without requiring you to rip out and replace the amazing code you have already written.
 - [ktor-health-check](https://github.com/zensum/ktor-health-check) Simple, opinionated ktor health and readiness checks made for Kubernetes.
 - [Cohort](https://github.com/sksamuel/cohort) Spring Actuator style replacement for Ktor. Provides health checks for orchestrators like Kubernetes and management of logging, databases, JVM settings, memory and threads in production.
 - [SuspendApp with Ktor](https://github.com/arrow-kt/suspendapp#suspendapp-with-ktor) The module suspendapp-ktor provides a server constructor that lifts the Ktor ApplicationEngine in to a Resource, representing the Engine running an Application(i.e Netty) while supporting auto-reload.
@@ -107,7 +107,6 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Ktor OpenAPI Spec Generator](https://github.com/bkbnio/kompendium)
 - [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
-
 
 ## Contributing
 
