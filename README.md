@@ -108,6 +108,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Tegral OpenAPI](https://tegral.zoroark.guru/docs/modules/core/openapi/)
 - [Kryptokrona Kotlin SDK](https://github.com/kryptokrona/kryptokrona-kotlin-sdk) Kryptokrona SDK in Kotlin for building decentralized private communication and payment systems. Uses Ktor client library to fetch data from RPC.
 - [Extra Ktor Plugins](https://github.com/Flaxoos/extra-ktor-plugins) A library of extra plugins for multiplatform ktor server / client, including a plugin for Kafka, a flexible rate limiter plugin and a circuit breaker for ktor clients
+- [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
 
 ## Contributing
 
