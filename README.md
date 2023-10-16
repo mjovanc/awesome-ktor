@@ -90,6 +90,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 
 - [Twitter: @JetBrainsKtor](https://twitter.com/jetbrainsktor)
 - [Reddit: /r/ktor](https://www.reddit.com/r/ktor/)
+- [ X ](https://twitter.com/i/communities/1711743225113760088) Unofficial Ktor community on X.
 
 ## Ktor Projects
 
