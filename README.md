@@ -38,6 +38,8 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Ktor: REST API for Mobile](https://www.kodeco.com/7265034-ktor-rest-api-for-mobile) Using Ktor to create REST APIs for mobile. You’ll create a Ktor REST API server named TodoServer. This server will authenticate users and provide an API for users and TODOs.
 - [KtorEasy Medium articles:](https://medium.com/@math21/list/ktoreasy-210a142aecb1) Medium's article list explaining KtorEasy repository. Including explanation about its architecture, testing, deployment and backend monitoring with Grafana.
 - [An opinionated Kotlin backend service](https://medium.com/p/87f814e3dffd) Article list explains the scaffolding for Kotlin / Ktor based backend services
+- [How to Integrate Firebase Authentication with the Ktor Auth Feature](https://levelup.gitconnected.com/how-to-integrate-firebase-authentication-with-ktors-auth-feature-dc2c3893a0cc)
+
 ## Podcasts/Episodes
 
 ### Podcasts
