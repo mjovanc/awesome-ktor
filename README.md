@@ -114,6 +114,7 @@ and on deeper level. _Note: The book is not talking directly about Ktor, however
 - [Kotlin GCP Pubsub](https://github.com/nomisRev/kotlin-gcp-pubsub) A Ktor Plugin for convenient, and easy integrating with to Google Cloud Platform PubSub, includes testing support and integration with KotlinX Serialization.
 - [Starter Project ktor](https://github.com/iammohdzaki/Starter-Project-Ktor) This is a starter project for building server-side applications using Ktor, a framework for building asynchronous servers and clients in connected systems. This template integrates MongoDB for database operations, Koin for dependency injection, and Swagger for API documentation.
 - [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) Production-grade open-source iGaming/casino engine built on Ktor. Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), session orchestration, betting lifecycle (place/settle/rollback), and freespin mechanics. Exposes a gRPC API and publishes RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
+- [ktor-guard](https://github.com/Guard-Core/ktor-guard) Ktor plugin for application-layer API security: IP filtering, rate limiting with automatic bans, attack pattern detection and security headers
 
 ## Contributing
 
